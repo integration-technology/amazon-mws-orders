@@ -19,7 +19,7 @@
 
   <groupId>technology.integration.amazonservices.mws</groupId>
   <artifactId>amazon-mws-order</artifactId>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>Amazon MWS :: Orders</name>
   <description>Amazon MWS Orders API Client Library POM</description>
