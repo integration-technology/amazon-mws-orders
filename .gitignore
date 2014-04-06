@@ -1,6 +1,9 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+target
+*.i??
+.idea
+.DS_Store
+.classpath
+.project
+.settings
+.checkstyle
+*.log
